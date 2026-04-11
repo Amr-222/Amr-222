@@ -1,4 +1,4 @@
-# Hi there, I'm Amr Ahmed 👋
+<img width="1732" height="547" alt="image" src="https://github.com/user-attachments/assets/71ca92fb-2922-4c4c-b62a-dfcd9881e6ac" /># Hi there, I'm Amr Ahmed 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=.NET+Backend+Developer;Computer+Science+Student;Problem+Solver" alt="Typing SVG" />
@@ -6,7 +6,8 @@
 
 ## 🌟 About Me
 
-I'm a passionate Computer Science student at **Ain Shams University** specializing in .NET backend development. I have hands-on experience working with companies like **Uber**, **Watch It**, and **Bank System**, where I've developed robust backend solutions and APIs.
+A Computer Science student at Ain Shams University, specializing in back-end development. Skilled in C#, ASP.NET Core, and SQL Server, with hands-on experience in the .NET Framework and software engineering principles.
+I write clean, maintainable code following a 3-tier architecture and have built desktop and full-stack web applications. Continuously learning and eager to apply my technical expertise to real-world software development challenges.
 
 - 🎓 **Computer Science Student** at Ain Shams University
 - 🎯 Focused on building scalable **backend solutions** and **desktop applications**
