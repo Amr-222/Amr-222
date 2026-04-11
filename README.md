@@ -53,19 +53,14 @@ I write clean, maintainable code following a 3-tier architecture and have built 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr-222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-222&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165">
-</div>
-
-
+![Stats](https://github-readme-stats.vercel.app/api?username=AmrAhmed22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)&nbsp;&nbsp;![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAhmed22&theme=tokyonight&hide_border=true&layout=compact)
 
 
 ## 🔥 Latest Projects
 
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amr-222&repo=Uber&theme=tokyonight&hide_border=true)](https://github.com/Amr-222/Uber)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmrAhmed22&repo=Uber&theme=tokyonight&hide_border=true)](https://github.com/AmrAhmed22/Uber)
 
 </div>
 
@@ -79,9 +74,9 @@ I write clean, maintainable code following a 3-tier architecture and have built 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-ahmed22/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AmrAhmed22/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrahmed24555@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amr-222)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmrAhmed22)
 
 </div>
 
