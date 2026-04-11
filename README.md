@@ -1,4 +1,4 @@
-<img width="1732" height="547" alt="image" src="https://github.com/user-attachments/assets/71ca92fb-2922-4c4c-b62a-dfcd9881e6ac" /># Hi there, I'm Amr Ahmed 👋
+# Hi there, I'm Amr Ahmed 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=.NET+Backend+Developer;Computer+Science+Student;Problem+Solver" alt="Typing SVG" />
