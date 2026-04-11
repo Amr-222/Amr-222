@@ -49,20 +49,7 @@ I write clean, maintainable code following a 3-tier architecture and have built 
 ![SOLID](https://img.shields.io/badge/-SOLID%20Principles-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![N-Tier](https://img.shields.io/badge/-N--Tier%20Architecture-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-</div>
 
-## 📊 GitHub Statistics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AmrAhmed22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)&nbsp;&nbsp;![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAhmed22&theme=tokyonight&hide_border=true&layout=compact)
-
-
-## 🔥 Latest Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmrAhmed22&repo=Uber&theme=tokyonight&hide_border=true)](https://github.com/AmrAhmed22/Uber)
-
-</div>
 
 ## 🎓 Education & Certifications
 
